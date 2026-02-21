@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# speed_reader
-=======
 # RSVP Speed Reader
 
 Browser-based RSVP reader for TXT, PDF, and DOCX files.
@@ -35,4 +32,3 @@ This app is static (`dist/`) and can be hosted on Vercel free tier.
 5. Deploy.
 
 `vercel.json` is included with these settings.
->>>>>>> fa6c041 (Initial Commit : RSVP Speed Reader)
